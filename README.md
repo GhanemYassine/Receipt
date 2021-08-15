@@ -1,1 +1,1 @@
-![Main Screen](capture.PNG)
+![Main Screen](capture.png)
